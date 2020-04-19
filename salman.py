@@ -44,7 +44,7 @@ logo = """
 |___/\__,_|_|_| |_| |_|\__,_|_| |_|
  
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92salman
+\033[1;96mAuthor  \033[1;93m: \033[1;92msalman
 \033[1;96mYouTube \033[1;93m: \033[1;92msalman
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/salman
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/salman
@@ -72,7 +72,7 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 CorrectUsername = "Salman"
-CorrectPassword = "salman"
+CorrectPassword = "Salman"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
